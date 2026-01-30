@@ -126,15 +126,15 @@ ER-Wait-Time-Analysis/
 
 ### Wait Time Distribution by Urgency
 
-Critical Cases:  Avg 18.2 min | Target: <10 min  |  BELOW TARGET
-High Priority:   Avg 28.5 min | Target: <20 min  |  BELOW TARGET
-Medium Priority: Avg 38.1 min | Target: <40 min  |  ON TARGET
-Low Priority:    Avg 52.3 min | Target: <60 min  |  ON TARGET
+- Critical Cases:  Avg 18.2 min | Target: <10 min  |  BELOW TARGET
+- High Priority:   Avg 28.5 min | Target: <20 min  |  BELOW TARGET
+- Medium Priority: Avg 38.1 min | Target: <40 min  |  ON TARGET
+- Low Priority:    Avg 52.3 min | Target: <60 min  |  ON TARGET
 
 ### Top Performing vs. Underperforming Hospitals
-Best:  Hospital 45 | 28.3 min avg | 8.7/10 satisfaction | 1:3.2 nurse ratio
-Worst: Hospital 12 | 45.1 min avg | 6.2/10 satisfaction | 1:5.8 nurse ratio
-Gap:   -59% wait time difference directly tied to staffing levels
+- Best:  Hospital 45 | 28.3 min avg | 8.7/10 satisfaction | 1:3.2 nurse ratio
+- Worst: Hospital 12 | 45.1 min avg | 6.2/10 satisfaction | 1:5.8 nurse ratio
+- Gap:   -59% wait time difference directly tied to staffing levels
 
 ---
 
