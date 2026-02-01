@@ -39,29 +39,31 @@ Healthcare facilities face mounting pressure to reduce ER wait times while maint
 
 ---
 
-## Repository Structure
-
+##  Repository Structure
+```
 ER-Wait-Time-Analysis/
 │
-├── README.md                          # Project overview and findings
-├── data/
-│   └── data_dictionary.md             # Complete data schema and definitions
+├──  README.md                                    # Project overview and findings
 │
-├── sql/
-│   ├── 01_data_quality_assessment.sql      # Data completeness and integrity
-│   ├── 02_overall_metrics.sql              # Benchmark comparisons
-│   ├── 03_urgency_analysis.sql             # Priority-based performance
-│   ├── 04_hospital_performance.sql         # Regional comparisons
-│   ├── 05_temporal_patterns.sql            # Day/time analysis
-│   ├── 06_resource_optimization.sql        # Staffing insights
-│   ├── 07_patient_satisfaction.sql         # Satisfaction drivers
-│   └── 08_executive_dashboard.sql          # Leadership KPIs
+├──  data/
+│   └──  data_dictionary.md                       # Complete data schema and definitions
 │
-├── insights/
-│   └── detailed_findings.md           # In-depth analysis results
+├──  sql/
+│   ├──  01_data_quality_assessment.sql           # Data completeness and integrity
+│   ├──  02_overall_metrics.sql                   # Benchmark comparisons
+│   ├──  03_urgency_analysis.sql                  # Priority-based performance
+│   ├──  04_hospital_performance.sql              # Regional comparisons
+│   ├──  05_temporal_patterns.sql                 # Day/time analysis
+│   ├──  06_resource_optimization.sql             # Staffing insights
+│   ├──  07_patient_satisfaction.sql              # Satisfaction drivers
+│   └──  08_executive_dashboard.sql               # Leadership KPIs
 │
-└── documentation/
-└── query_index.md                 # Business questions guide
+├──  insights/
+│   └──  detailed_findings.md                     # In-depth analysis results
+│
+└──  documentation/
+    └──  query_index.md                           # Business questions guide
+```
 
 ---
 
