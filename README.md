@@ -158,7 +158,7 @@ ER-Wait-Time-Analysis/
 ## Connect With Me
 
 **Isuekebho Excel**  
-Data Analyst | Healthcare Analytics Specialist
+Data Analyst  
 
 
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:xcelisuekebho@gmail.com)
