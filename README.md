@@ -39,7 +39,7 @@ Healthcare facilities face mounting pressure to reduce ER wait times while maint
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ER-Wait-Time-Analysis/
 │
